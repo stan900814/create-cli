@@ -1,5 +1,5 @@
 {
-	"name": "y-cli",
+	"name": "@stan/create-cli",
 	"version": "1.0.0",
 	"type": "module",
 	"license": "MIT",
