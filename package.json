@@ -1,0 +1,23 @@
+{
+	"name": "y-cli",
+	"version": "1.0.0",
+	"type": "module",
+	"license": "MIT",
+	"author": "Yuan",
+	"bin": {
+		"create-project": "index.js"
+	},
+	"files": [
+		"index.js",
+		"template-*"
+	],
+	"main": "index.js",
+	"engines": {
+		"node": "^14.18.0 || >=16.0.0"
+	},
+	"dependencies": {
+		"kolorist": "^1.5.1",
+		"minimist": "^1.2.6",
+		"prompts": "^2.4.2"
+	}
+}
