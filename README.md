@@ -7,25 +7,17 @@
 > [Vite](https://vitejs.dev/) 
 
 ### 2.使用说明
-With NPM:
 
 ```bash
-$ npm create project@latest my-app --template react-ts
-```
-
-With Yarn:
-
-```bash
-$ yarn create project my-app --template react-ts
-```
-
-With PNPM:
-
-```bash
-$ pnpm create vite my-app --template react-ts
+$ npm install @stan900814/create-cli -g
 ```
 
 if success,then
+
+```bash
+$ create-project
+```
+then,finally
 
 ```bash
 cd my-project
